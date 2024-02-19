@@ -1,3 +1,6 @@
 [submodule "segment-anything"]
 	path = segment-anything
 	url = https://github.com/cs-os/segment-anything.git
+[submodule "AVSBench"]
+	path = AVSBench
+	url = https://github.com/cs-os/AVSBench.git
